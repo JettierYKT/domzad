@@ -1,3 +1,3 @@
-Название:GOST R 34.11-94
+Задача LibreSSL & OpenSSL:
 
-Пароль: MARINA
+Passphrase:2021
