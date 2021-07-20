@@ -1,15 +1,22 @@
-Metasploitable:
+Ритейл:
 
-1)ftp,ssh,telnet,smtp,domain,http,rpcbind,netbios-ssn,tcpwrapped,java-rmi,bindshell,nfs,mysql,postgresql,vnc,X11,irc,ajp13
+1)Межсетевой экран
 
+2)DDoS-защита
 
-2)https://www.exploit-db.com/exploits/15449
-
-https://www.exploit-db.com/exploits/32849
-
-https://www.exploit-db.com/exploits/17491
+3)Web Application Firewall,т к он обеспечивает защиту от веб-атак,в том числе sql-инъекций
 
 
-SYN, FIN, Xmas, UDP:
+Промышленность:
 
-1)Все режимы сканирования,кроме UDP очень схожи,они передают пакеты по протоколу TCP.Тогда как во время сканирования в режиме UDP преимущественно используются протоколы ICMP и UDP.
+1)Межсетевой экран
+
+2)защита почты
+
+3)сетевой антивирус
+
+4)веб-прокси
+
+5)межсетевой экран
+
+6)антивирус
